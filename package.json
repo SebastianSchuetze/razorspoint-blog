@@ -29,7 +29,7 @@
     "@keyvhq/core": "^1.6.26",
     "@keyvhq/redis": "^1.6.28",
     "@react-icons/all-files": "^4.1.0",
-    "@vercel/og": "^0.0.19",
+    "@vercel/og": "^1.0.0",
     "classnames": "^2.3.2",
     "date-fns": "^2.30.0",
     "expiry-map": "^2.0.0",
